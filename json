@@ -1,0 +1,21 @@
+{
+  "short_name": "Gestão Familiar",
+  "name": "Estrela Guia - Programa de Gestão Familiar Módulo 2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#003366"
+}
